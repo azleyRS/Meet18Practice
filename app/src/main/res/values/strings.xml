@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Meet18Practice</string>
     <string name="sample_text">Test</string>
+    <string name="url_http_connection">HttpUrlConnection</string>
+    <string name="fresco">Fresco</string>
+    <string name="picasso">Picasso</string>
 </resources>
